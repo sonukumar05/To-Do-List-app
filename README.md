@@ -12,6 +12,7 @@ This web application offers a hassle-free way to manage your tasks and stay orga
 - Add Tasks: Quickly add new tasks with a user-friendly interface.
 - Delete Tasks: Easily remove completed or unnecessary tasks.
 - Responsive Design: Works seamlessly on both desktop and mobile devices.
+- Mark Completion: Mark the work as completed after editing the task.
 
 
 ## Demo
