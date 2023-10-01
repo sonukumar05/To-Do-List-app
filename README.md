@@ -17,7 +17,7 @@ This web application offers a hassle-free way to manage your tasks and stay orga
 
 ## Demo
 
-See the application in action by visiting the live demo [here]: (https://to-do-app-05.web.app/)
+See the application in action by visiting the live demo [here]: ([https://to-do-app-05.web.app/](https://sonukumar05.github.io/to-do-list-app/)
 
 ## Getting Started
 
