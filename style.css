@@ -99,4 +99,10 @@ li .edit-input{
         width: 100%;
         margin-bottom: 10px;
     }
+     body{
+    background-image:url('giphy.gif');
+    background-size:cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+  }
 }
